@@ -52,7 +52,7 @@ Service and leadership
 ======
 * VP of Recruitment, Social Media Chair, Sisterhood Chair - Alpha Sigma Kappa
   * Post on Instagram
-*Founding Class - Alpha Sigma Kappa
+* Founding Class - Alpha Sigma Kappa
 
 * Secretary - Women in Cybersecurity
   * Post on Instagram 
