@@ -16,6 +16,8 @@ main:
 
  # - title: "Teaching"
   #  url: /teaching/    
+  - title: "Clara Brooks"
+    url: https://claraebrooks.github.io/
     
   - title: "Portfolio"
     url: /portfolio/
