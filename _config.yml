@@ -272,6 +272,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      
   # _portfolio
   - scope:
       path: ""
@@ -281,9 +282,9 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      
-# _projects
-   - scope:
+
+# _projects  
+  - scope:
       path: ""
       type: projects
     values:
