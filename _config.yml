@@ -134,7 +134,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -228,6 +228,9 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: false
+    permalink: /:collection/:path/
+  projects:
+    output: true
     permalink: /:collection/:path/
 
 
