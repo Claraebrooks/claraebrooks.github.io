@@ -16,14 +16,15 @@ main:
 
  # - title: "Teaching"
   #  url: /teaching/    
+  
   - title: "Clara Brooks"
     url: https://claraebrooks.github.io/
     
   - title: "Portfolio"
     url: /portfolio/
         
- # - title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Projects"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
