@@ -9,5 +9,5 @@ redirect_from:
 
 Hi there! My name is Clara Brooks, a Computer Science student with minors in Mathematics and Cybersecurity.
 
-[Portfolio](https://claraebrooks.github.io/portfolio/)
+[Portfolio](https://claraebrooks.github.io/portfolio/) \
 [CV](https://claraebrooks.github.io/cv/)
