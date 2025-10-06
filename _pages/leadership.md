@@ -1,14 +1,13 @@
 ---
-layout: archive
-title: "Leadership"
 permalink: /leadership/
+title: "Leadership"
 author_profile: true
 ---
 
-{% include base_path %}
+VP of Recruitment - Alpha Sigma Kappa
+  - Founding Class - 2025
 
+Women in Cybersecurity - Secretary
 
-{% for post in site.leadership %}
-  {% include archive-single.html %}
-{% endfor %}
+Media and Marketing - Campus Ministry
 
