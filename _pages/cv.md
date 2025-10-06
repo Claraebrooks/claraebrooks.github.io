@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Grand Valley State University (GVSU), Allendale, MI
+* Bachelor of Science in Computer Science — Fredrik Meijer Honors College
+* Minors: Mathematics and Cybersecurity
+* Expected Graduation: May 2027
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Fall 2024 - Present: LakerTech
+  * Laker Store: Allendale, MI
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -41,24 +42,20 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Portfolio
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* VP of Recruitment, Social Media Chair, Sisterhood Chair - Alpha Sigma Kappa
+  * Post on Instagram
+*Founding Class - Alpha Sigma Kappa
+
+* Secretary - Women in Cybersecurity
+  * Post on Instagram 
+
+* Media and Marketing - Campus Ministry
+  * Post on Instagram 
