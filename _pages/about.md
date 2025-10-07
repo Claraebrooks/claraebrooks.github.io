@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Clara Brooks, a Computer Science student with minors in Mathematics and Cybersecurity. Stay for a while and check out the page!
+Hey there! My name is Clara Brooks, a Computer Science student with minors in Mathematics and Cybersecurity. Stay for a while and check out the page!
 
 [Portfolio](https://claraebrooks.github.io/portfolio/) \
 [Projects](https://claraebrooks.github.io/projects/) \
