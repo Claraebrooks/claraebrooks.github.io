@@ -292,16 +292,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
-  # _certifications
-  - scope:
-      path: ""
-      type: certifications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
       
   # _talks
   - scope:
