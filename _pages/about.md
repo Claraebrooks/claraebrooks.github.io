@@ -11,4 +11,6 @@ Hey there! My name is Clara Brooks, a Computer Science student with minors in Ma
 
 [Portfolio](https://claraebrooks.github.io/portfolio/) \
 [Projects](https://claraebrooks.github.io/projects/) \
-[CV](https://claraebrooks.github.io/cv/)
+[CV](https://claraebrooks.github.io/cv/) \
+[Certifications](https://claraebrooks.github.io/certifications/)
+
