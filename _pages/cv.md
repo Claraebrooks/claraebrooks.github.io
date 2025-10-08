@@ -18,20 +18,20 @@ Education
 
 Work experience
 ======
-* Fall 2024 - Present: LakerTech
+* LakerTech            [Fall 2024 - Present]
   * Laker Store: Allendale, MI
   * Duties include:
     * Adding products to inSite using HTML.
     *  Provided exceptional customer service by assisting students, faculty, and staff with selecting textbooks, technology products, and school         supplies
     *  Monitored inventory levels and communicated with management to restock popular items and address low stock concerns
    
-* June 2024 - June 2025: Product Specialist
+* Product Specialist   [June 2024 - June 2025]
   * Skechers: Grand Rapids, MI
   * Duties include:
     *  Fostered brand loyalty by promoting the Skechers Plus loyalty program and educating customers on its benefits
     *  Leveraged in-depth product knowledge to educate customers on Skechers footwear technologies, features, and benefits, driving informed             purchasing decisions
    
-* May 2021 - January 2024: Sales Associate
+* Sales Associate     [May 2021 - January 2024]
   * T.J.Maxx: Grand Rapids, MI
   * Duties include:
     * Managed finances, checked transactions, counted the safe, and calculated total sales.
