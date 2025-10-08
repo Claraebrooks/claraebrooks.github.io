@@ -25,7 +25,7 @@ Work experience
     *  Provided exceptional customer service by assisting students, faculty, and staff with selecting textbooks, technology products, and school         supplies
     *  Monitored inventory levels and communicated with management to restock popular items and address low stock concerns
    
-<br></br>
+<br>
    
 * Product Specialist   [June 2024 - June 2025]
   * Skechers: Grand Rapids, MI
@@ -33,7 +33,7 @@ Work experience
     *  Fostered brand loyalty by promoting the Skechers Plus loyalty program and educating customers on its benefits
     *  Leveraged in-depth product knowledge to educate customers on Skechers footwear technologies, features, and benefits, driving informed             purchasing decisions
    
-<br></br>
+<br>
    
 * Sales Associate     [May 2021 - January 2024]
   * T.J.Maxx: Grand Rapids, MI
@@ -44,7 +44,6 @@ Work experience
     * Trusted with training new employees 
 
 
-  
 Skills
 ======
 * Coding Languages
@@ -67,13 +66,13 @@ Service and leadership
     * Contacted vendors for a bulk order discount
   * Founding Class of Alpha Sigma Kappa - Phi Petitioning Group
     
-<br></br>
+<br>
 
 * Secretary - Women in Cybersecurity [August 2024 - Present]
   * Created and posted Instagram posts about our upcoming meetings to keep members informed
   * Kept up with Discord messages with questions the members might have
  
-<br></br>
+<br>
 
 * Media and Marketing - Campus Ministry [August 2024 - May 2025]
   * Created and posted Instagram posts and stories that informed the community of upcoming events while keeping it in the Campus Ministry brand
