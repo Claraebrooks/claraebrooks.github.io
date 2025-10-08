@@ -61,7 +61,8 @@ Service and leadership
       * Some events include Big/Little, Build-a-lioness, and Line Dancing Night
     * Reached out and designed custom merch for the members
     * Contacted vendors for a bulk order discount
-  * Founding Class of Alpha Sigma Kappa - Phi Petitioning Group 
+  * Founding Class of Alpha Sigma Kappa - Phi Petitioning Group
+<br></br>
 
 * Secretary - Women in Cybersecurity [August 2024 - Present]
   * Created and posted Instagram posts about our upcoming meetings to keep members informed
