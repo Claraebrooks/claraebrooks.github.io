@@ -53,15 +53,15 @@ Skills
 Service and leadership
 ======
 * Alpha Sigma Kappa
-* VP of Recruitment, Social Media Chair, Sisterhood Chair [March 2025 - Present]
-  * Organized and planned recruitment events for over 25 potential new members, increasing chapter membership by 120%
-  * Created and posted Instagram content promoting the chapter along with recruitment events
-  * Designed graphics using Canva to keep up with the Alpha Sigma Kappa branding
-  * Planned and executed 6 sisterhood events to strengthen membership relationships
-    * Some events include Big/Little, Build-a-lioness, and Line Dancing Night
-  * Reached out and designed custom merch for the members
-  * Contacted vendors for a bulk order discount
-* Founding Class of Alpha Sigma Kappa - Phi Petitioning Group 
+  * VP of Recruitment, Social Media Chair, Sisterhood Chair [March 2025 - Present]
+    * Organized and planned recruitment events for over 25 potential new members, increasing chapter membership by 120%
+    * Created and posted Instagram content promoting the chapter along with recruitment events
+    * Designed graphics using Canva to keep up with the Alpha Sigma Kappa branding
+    * Planned and executed 6 sisterhood events to strengthen membership relationships
+      * Some events include Big/Little, Build-a-lioness, and Line Dancing Night
+    * Reached out and designed custom merch for the members
+    * Contacted vendors for a bulk order discount
+  * Founding Class of Alpha Sigma Kappa - Phi Petitioning Group 
 
 * Secretary - Women in Cybersecurity [August 2024 - Present]
   * Created and posted Instagram posts about our upcoming meetings to keep members informed
