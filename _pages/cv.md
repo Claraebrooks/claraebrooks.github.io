@@ -13,8 +13,8 @@ Education
 ======
 * Grand Valley State University (GVSU), Allendale, MI
 * Bachelor of Science in Computer Science — Fredrik Meijer Honors College
-* Minors: Mathematics and Cybersecurity
-* Expected Graduation: May 2027
+  * Minors: Mathematics and Cybersecurity
+  * Expected Graduation: May 2027
 
 Work experience
 ======
