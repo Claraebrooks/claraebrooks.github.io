@@ -20,39 +20,27 @@ Work experience
 ======
 * Fall 2024 - Present: LakerTech
   * Laker Store: Allendale, MI
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties include:
+    * Adding products to inSite using HTML.
+    *  Provided exceptional customer service by assisting students, faculty, and staff with selecting textbooks, technology products, and school         supplies.
+    *  Monitored inventory levels and communicated with management to restock popular items and address low stock concerns.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Portfolio
-======
-  <ul>{% for post in site.portfolio reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Coding Languages
+  * Familiar with python, C, java, HTML, R
+    
+* Social Media
+  * Canva
+  * Familiar with Adobe illustrator, Lightroom, and photoshop
   
 Service and leadership
 ======
-* VP of Recruitment, Social Media Chair, Sisterhood Chair - Alpha Sigma Kappa
-  * Post on Instagram
-* Founding Class - Alpha Sigma Kappa
+* Alpha Sigma Kappa
+* VP of Recruitment, Social Media Chair, Sisterhood Chair
+  * Increased membership by 120%
+  * Planned and 
+* Founding Class of Alpha Sigma Kappa - Phi Petitioning Group 
 
 * Secretary - Women in Cybersecurity
   * Post on Instagram 
