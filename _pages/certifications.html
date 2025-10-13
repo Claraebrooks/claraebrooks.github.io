@@ -7,11 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.certifications %}
-  {% assign sorted_certs = site.certifications | sort: 'date' | reverse %}
-  {% for post in sorted_certs %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% else %}
-  <p>No certifications found yet.</p>
-{% endif %}
+
+{% for post in site.certifications %}
+  {% include archive-single.html %}
+{% endfor %}
