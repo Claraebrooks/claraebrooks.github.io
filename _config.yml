@@ -307,14 +307,21 @@ defaults:
       comment: true
 
 # _certification
+collections:
+  certifications:
+    output: true
+    permalink: /certifications/:title/
+
+defaults:
   - scope:
       path: ""
       type: certifications
-    values: 
+    values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
+
       
 
   # _talks
