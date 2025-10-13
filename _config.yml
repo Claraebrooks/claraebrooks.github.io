@@ -311,7 +311,7 @@ defaults:
       path: ""
       type: certifications
     values:
-      layout: single
+      layout: cerifications
       author_profile: true
       share: true
       comment: true
