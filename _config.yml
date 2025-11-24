@@ -21,7 +21,7 @@ repository               : "ClaraBrooks/claraebrooks.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5687.jpeg"
+  avatar           : "Headshot.jpg"
   name             : "Clara Brooks"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
